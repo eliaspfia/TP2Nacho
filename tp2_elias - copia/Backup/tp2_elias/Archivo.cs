@@ -20,20 +20,13 @@ namespace tp2_elias
             string[] aux = File.ReadAllLines(Rutadelarchivo);
             return aux;
         }
-        public string Buscadorid(string id) 
+        public string[] Buscadorid(string id) 
         {
-            int i=0;
-          string[] aux = info();
-          do{
-                string [] partes = aux[i].Split(';');
-                if(partes[0]==id)
-                {
-                    return aux[i];
-                }
-            
-            }while(i<=aux.Length);
+            string[] aux = info();
+            for (int i = 0; i <= aux.Length;i++)
+            {
+            }
 
-          return "-1";
         }
 
 

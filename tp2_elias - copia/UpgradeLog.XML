@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="tp2_elias">
+</Property><Property Name="Solution File" Value="C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\tp2_elias.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\tp2_elias.suo">
+</Property><Property Name="Date" Value="jueves, 12 de octubre de 2023">
+</Property><Property Name="Time" Value="17:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="tp2_elias.sln" Description="File successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias.sln">
+</Event><Event ErrorLevel="0" Project="" Source="tp2_elias.suo" Description="File successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias.suo">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\tp2_elias.csproj" Description="Project file successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias\tp2_elias.csproj">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\tp2_elias.csproj.user" Description="Project user file successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias\tp2_elias.csproj.user">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\Archivo.cs" Description="File successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias\Archivo.cs">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\Form1.cs" Description="File successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias\Form1.cs">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\Form1.Designer.cs" Description="File successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\Program.cs" Description="File successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias\Program.cs">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\wfPresupuesto.cs" Description="File successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias\wfPresupuesto.cs">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\wfPresupuesto.Designer.cs" Description="File successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias\wfPresupuesto.Designer.cs">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\wfStock.cs" Description="File successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias\wfStock.cs">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\wfStock.Designer.cs" Description="File successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias\wfStock.Designer.cs">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\Form1.resx" Description="File successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias\Form1.resx">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\wfPresupuesto.resx" Description="File successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias\wfPresupuesto.resx">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\wfStock.resx" Description="File successfully backed up as C:\Users\Usuario\Desktop\git\TP2Nacho\tp2_elias - copia\Backup\tp2_elias\wfStock.resx">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\tp2_elias.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="tp2_elias" Source="tp2_elias\tp2_elias.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="tp2_elias.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="tp2_elias.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="tp2_elias" Source="tp2_elias\tp2_elias.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
